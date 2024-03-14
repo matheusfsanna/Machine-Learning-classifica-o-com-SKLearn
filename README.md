@@ -1,4 +1,4 @@
-# Modelo de Machine Learning para Previsão de Compra
+# Modelo de Machine Learning para classificação
 
 Este repositório contém um exemplo simples de um modelo de Machine Learning para prever se um cliente realizará uma compra com base em dados fornecidos.
 
